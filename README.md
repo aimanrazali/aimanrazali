@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 ## Contact Me: <img src="https://media.giphy.com/media/Qu10P5ALv8TBj9oQud/giphy.gif" alt="Alt Text" width="100px">
 
 You can reach out to me through the following channels:
-You can reach out to me through the following channels:
 - [Personal Website](https://aimanrazali-v2-portfolio.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-aiman-55a070190/)
 
