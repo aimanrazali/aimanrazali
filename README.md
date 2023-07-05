@@ -61,7 +61,7 @@ You can reach out to me through the following channels:
 
 <hr>
 
-<img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" alt="Alt Text" width="100px"> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U4MX0CS)
+<img src="https://media.giphy.com/media/muNxHDS2UsoVfqIMPZ/giphy.gif" alt="Alt Text" width="100px" target="_blank"> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U4MX0CS)
 
 
 
