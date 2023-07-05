@@ -1,6 +1,6 @@
 <div align="center">
   
-# :wave: Hello! I'm Aiman
+# 👋🏻 Hello! I'm Aiman
 
 <img src="https://media.giphy.com/media/eFnV5IkOJiNIx2WurB/giphy.gif" alt="Alt Text" width="100px"> <img src="https://media.giphy.com/media/TcxiIErr76SpKUjbFj/giphy.gif" alt="Alt Text" width="80px"> <img src="https://media.giphy.com/media/354N8aaIjcy22JPc9A/giphy.gif" alt="Alt Text" width="80px"> <img src="https://media.giphy.com/media/e2Mc0tmpstRXxk3AQ2/giphy.gif" alt="Alt Text" width="80px"> <img src="https://media.giphy.com/media/3uFEFUtsT7MSQYmvoN/giphy.gif" alt="Alt Text" width="80px"> <img src="https://media.giphy.com/media/DQifnEUGni3Wh71oFK/giphy.gif" alt="Alt Text" width="80px">
 </div>
