@@ -1,9 +1,14 @@
-## Hi there, I'm Aiman👋
+## :wave: Hello! I'm Aiman <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 Passionate and dedicated Software Engineer experienced in Node.js, Express.js, and MongoDB. Proficient in PHP, MySQL, HTML5, CSS, JavaScript and self-taught in React.js. Detail-oriented and adept at problem-solving, with a commitment to continuous growth and staying updated with industry trends.
 
 Seeking a challenging position in a dynamic company to contribute to innovative projects using Node.js, Express.js, MongoDB, and React.js skills.
 
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: ...
+-->
 <!--
 **aimanrazali/aimanrazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,3 +45,7 @@ Here are some ideas to get you started:
 ### API Development and Testing:
 
 [![API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+### Contact Me:
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-aiman-55a070190/)
