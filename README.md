@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Back-end Development:
 
-[![back end](https://skillicons.dev/icons?i=mongodb,express,nodejs,java,mysql,php)](https://skillicons.dev)
+[![back end](https://skillicons.dev/icons?i=mongodb,express,nodejs,java,mysql,php,nestjs,postgres)](https://skillicons.dev)
 
 ### Version Control and Deployment:
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### Development Tools and Enviroments:
 
-[![IDE](https://skillicons.dev/icons?i=vscode,atom,eclipse)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=vscode,atom,eclipse,docker)](https://skillicons.dev)
 
 ### API Development and Testing:
 
