@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Version Control and Deployment:
 
-[![version control](https://skillicons.dev/icons?i=git,heroku,netlify)](https://skillicons.dev)
+[![version control](https://skillicons.dev/icons?i=git,heroku,netlify,vercel)](https://skillicons.dev)
 
 ### Development Tools and Enviroments:
 
