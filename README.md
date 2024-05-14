@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Technologies and Tools: <img src="https://media.giphy.com/media/8IJsvXiqJFZrrPcutM/giphy.gif" alt="Alt Text" width="100px"> 
 ### Front-end Development:
 
-[![front end](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react,redux,vite,bootstrap,materialui,tailwind)](https://skillicons.dev)
+[![front end](https://skillicons.dev/icons?i=html,css,js,jquery,ts,nextjs,react,redux,vite,bootstrap,materialui,tailwind)](https://skillicons.dev)
 
 ### Back-end Development:
 
